@@ -2,6 +2,10 @@
 
 The whole pipeline, in order. Every command is copy-paste ready (Windows, cmd).
 
+> **You MUST train your own model.** The `best_model.pt` shipped in this repo
+> was trained only on the demo loop in the demo city - it will not drive your
+> scene. Steps 2 and 3 below are not optional.
+
 ---
 
 ## Step 0 - Install

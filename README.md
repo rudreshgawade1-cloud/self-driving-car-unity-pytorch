@@ -1,5 +1,11 @@
 # Virtual Self-Driving Car (Unity + PyTorch)
 
+> **⚠ The included model is NOT accurate for you.** `python/best_model.pt` was
+> trained only on the specific loop and city scene used in this demo. On your
+> own scene or roads it will not drive. Follow `TRAINING.md`: record your own
+> data (Step 2) and train your own model (Step 3) - the code works with any
+> loop you build.
+
 A simulated self-driving car: a small convolutional neural network (CNN) looks at the
 car's dashcam image and predicts a steering value; Unity applies it to the car.
 A local TCP link connects Unity (C#) and the model server (Python/PyTorch).
