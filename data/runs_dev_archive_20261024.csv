@@ -1,0 +1,28 @@
+run,time_s,event,x,z,speed_mps,cross_track_m,note
+A,2.19,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=ON
+A,41.32,CRASH,-66.32,119.14,3.50,4.01,left the road
+A,3.17,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=ON
+A,43.09,CRASH,-66.77,118.70,3.50,4.00,left the road
+A,913.06,NN_FAIL,-66.77,118.70,0.00,4.00,mode=NNDriving;safety=ON;no reply from network
+A,913.09,STOPPED_SAFE,-66.77,118.70,0.00,4.00,mode=Manual;safety=ON;stop_distance_m=0.0
+A,3.18,NN_ENGAGED,4.95,3.00,0.00,0.00,mode=NNDriving;safety=ON
+A,3.16,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=ON
+A,42.91,CRASH,-65.97,119.47,3.50,4.03,left the road
+A,674.33,NN_FAIL,-65.97,119.47,0.00,4.03,mode=NNDriving;safety=ON;no reply from network
+A,674.67,STOPPED_SAFE,-65.97,119.47,0.00,4.03,mode=Manual;safety=ON;stop_distance_m=0.0
+A,3.15,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=ON
+A,30.75,CRASH,-10.66,120.68,5.00,4.04,left the road
+A,81.28,NN_FAIL,-10.66,120.68,0.00,4.04,mode=NNDriving;safety=ON;no reply from network
+A,81.32,STOPPED_SAFE,-10.66,120.68,0.00,4.04,mode=Manual;safety=ON;stop_distance_m=0.0
+A,3.18,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=ON
+A,7.27,CRASH,-1.94,16.29,5.00,4.07,left the road
+A,138.97,NN_FAIL,-1.94,16.29,0.00,4.07,mode=NNDriving;safety=ON;no reply from network
+A,139.00,STOPPED_SAFE,-1.94,16.29,0.00,4.07,mode=Manual;safety=ON;stop_distance_m=0.0
+A,3.21,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=ON
+A,38.94,CRASH,-53.91,123.23,5.00,4.06,left the road
+A,3.20,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=ON
+A,42.83,CRASH,-52.98,123.24,3.50,4.01,left the road
+A,90.92,NN_FAIL,-52.98,123.24,0.00,4.01,mode=NNDriving;safety=ON;no reply from network
+A,1.47,NN_ENGAGED,4.95,3.00,0.00,0.00,mode=NNDriving;safety=ON
+A,101.90,NN_FAIL,-11.08,15.63,3.50,0.00,mode=NNDriving;safety=ON;no reply from network
+A,102.88,STOPPED_SAFE,-12.70,15.13,0.00,0.00,mode=Manual;safety=ON;stop_distance_m=1.7

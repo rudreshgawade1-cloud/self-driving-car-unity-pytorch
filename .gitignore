@@ -1,0 +1,30 @@
+# Unity
+SelfDrivingCar/Library/
+SelfDrivingCar/Temp/
+SelfDrivingCar/Logs/
+SelfDrivingCar/UserSettings/
+SelfDrivingCar/Obj/
+SelfDrivingCar/Build/
+SelfDrivingCar/Builds/
+SelfDrivingCar/*.csproj
+SelfDrivingCar/*.slnx
+SelfDrivingCar/.idea/
+
+# Python
+python/venv/
+python/__pycache__/
+
+# Large training data (regenerate by driving: R to record, train.py to train)
+data/images/
+
+# Raw capture frames (only the assembled MP4s are kept)
+recordings/rec_*/
+recordings/run_2*/
+
+# Server/editor logs
+*.log
+data/labels.csv
+data/labels - Copy.csv
+
+# 3D assets: too large for git (157 MB city model) - add your own to Assets/
+*.glb

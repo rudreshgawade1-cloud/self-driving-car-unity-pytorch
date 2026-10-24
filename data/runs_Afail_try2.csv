@@ -1,0 +1,3 @@
+run,time_s,event,x,z,speed_mps,cross_track_m,note
+A,3.19,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=ON
+A,55.98,CRASH,-68.68,116.45,2.80,4.01,left the road

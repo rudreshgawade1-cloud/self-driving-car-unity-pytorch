@@ -1,0 +1,15 @@
+run,time_s,event,x,z,speed_mps,cross_track_m,note
+A,8.98,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=ON
+A,46.68,CRASH,-66.03,119.44,5.00,4.01,left the road
+A,52.50,NN_FAIL,-66.03,119.44,0.00,4.01,mode=NNDriving;safety=ON;no reply from network
+A,52.51,STOPPED_SAFE,-66.03,119.44,0.00,4.01,mode=Manual;safety=ON;stop_distance_m=0.0
+B,11.15,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=OFF
+B,44.32,NN_FAIL,-45.03,125.02,5.00,1.95,mode=NNDriving;safety=OFF;network switched off
+B,49.38,CRASH,-70.30,126.43,5.00,4.01,left the road
+C,9.24,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=ON
+C,42.49,NN_FAIL,-45.58,125.03,5.00,1.96,mode=NNDriving;safety=ON;network switched off
+C,43.74,STOPPED_SAFE,-48.71,125.18,0.04,1.92,mode=Manual;safety=ON;stop_distance_m=3.1
+A,10.22,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=ON
+A,47.83,CRASH,-65.78,119.67,5.00,4.02,left the road
+A,52.47,NN_FAIL,-65.78,119.67,0.00,4.02,mode=NNDriving;safety=ON;no reply from network
+A,52.48,STOPPED_SAFE,-65.78,119.67,0.00,4.02,mode=Manual;safety=ON;stop_distance_m=0.0

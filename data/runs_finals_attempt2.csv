@@ -1,0 +1,8 @@
+run,time_s,event,x,z,speed_mps,cross_track_m,note
+A,3.21,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=ON
+A,56.31,CRASH,-68.89,116.05,2.80,4.06,left the road
+B,3.42,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=OFF
+B,43.67,NN_FAIL,-41.04,125.41,2.80,1.42,mode=NNDriving;safety=OFF;network switched off
+C,3.44,NN_ENGAGED,4.95,3.00,0.00,2.37,mode=NNDriving;safety=ON
+C,43.67,NN_FAIL,-41.00,125.35,2.80,1.48,mode=NNDriving;safety=ON;network switched off
+C,44.38,STOPPED_SAFE,-42.00,125.52,0.02,1.35,mode=Manual;safety=ON;stop_distance_m=1.0

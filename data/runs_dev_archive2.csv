@@ -1,0 +1,7 @@
+run,time_s,event,x,z,speed_mps,cross_track_m,note
+A,0.02,NN_ENGAGED,4.95,3.00,0.00,0.00,mode=NNDriving;safety=ON
+A,20.98,NN_FAIL,-45.11,12.19,3.50,0.00,mode=NNDriving;safety=ON;no reply from network
+A,21.93,STOPPED_SAFE,-45.65,10.66,0.00,0.00,mode=Manual;safety=ON;stop_distance_m=1.6
+A,0.65,NN_ENGAGED,4.95,3.00,0.00,0.00,mode=NNDriving;safety=ON
+A,36.40,NN_FAIL,-19.32,-22.91,3.50,0.00,mode=NNDriving;safety=ON;no reply from network
+A,37.28,STOPPED_SAFE,-17.82,-22.77,0.01,0.00,mode=Manual;safety=ON;stop_distance_m=1.5
