@@ -47,6 +47,8 @@ NNDriver.cs  ->  CarController.cs (kinematic bicycle model, max 30 deg steer)
 
 ## How to run
 
+The full end-to-end procedure (setup, recording data, training, demo): **`TRAINING.md`**.
+
 1. Start the server: `cd python`, `venv\Scripts\activate`, `python drive_server.py`
    (waits for Unity on 127.0.0.1:5005).
 2. Open the Unity project, press Play.
